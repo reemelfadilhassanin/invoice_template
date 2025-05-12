@@ -105,13 +105,12 @@ body {
   color: #78909c; /* لون رمادي أزرق فاتح للتذييل */
   font-size: 0.95em;
   text-align: center;
-  font-weight: bold;
+  
 }
 
 .btn-outline-secondary {
   color: #6c757d;
   border-color: #6c757d;
-  font-weight: bold;
 }
 
 .btn-outline-secondary:hover {
